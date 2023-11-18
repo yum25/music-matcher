@@ -30,6 +30,13 @@ yarn-error.*
 
 # local env files
 .env*.local
+.env
 
 # typescript
 *.tsbuildinfo
+
+# macOS
+.DS_Store
+
+# workspace
+workspace
